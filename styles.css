@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg,#0f172a,#1e293b);
+  color: white;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.tagline {
+  color: #cbd5f5;
+}
+
+.buttons a {
+  background: white;
+  color: black;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
